@@ -1,0 +1,42 @@
+[
+  {
+    "User": "Client1",
+    "Role": "client",
+    "Credentials": {
+      "Username": "MariusCiob",
+      "Password": "10intamplari"
+    }
+  },
+  {
+    "User": "Admin1",
+    "Role": "admin",
+    "Credentials": {
+      "Username": "Radu",
+      "Password": "frumos"
+    }
+  },
+  {
+    "User": "Client2",
+    "Role": "client",
+    "Credentials": {
+      "Username": "Cosmin",
+      "Password": "nepune10"
+    }
+  },
+  {
+    "User": "Admin2",
+    "Role": "admin",
+    "Credentials": {
+      "Username": "MarioR",
+      "Password": "meritam10"
+    }
+  },
+  {
+    "User": "Client3",
+    "Role": "client",
+    "Credentials": {
+      "Username": "Andy",
+      "Password": "ebine10:))"
+    }
+  }
+]
