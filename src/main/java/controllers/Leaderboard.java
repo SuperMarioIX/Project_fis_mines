@@ -33,6 +33,8 @@ public class Leaderboard implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
          JSONArray board = readFile("src/main/java/sources/board.json");
         System.out.println(board);
+
+
     }
 
     public JSONArray readFile(String sourceFilePath){
