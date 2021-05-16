@@ -53,7 +53,7 @@ public class Leaderboard implements Initializable {
 
         boardTableUsername.setCellFactory(TextFieldTableCell.forTableColumn());
         boardTableTime.setCellFactory(TextFieldTableCell.forTableColumn());
-        //boardTable.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+        //boardTable.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE); 
 
         JSONParser parser = new JSONParser();
         Object obj;
