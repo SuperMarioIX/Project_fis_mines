@@ -1,22 +1,22 @@
 [
   {
     "User": "Client1",
-    "score": 1800
+    "Score": "1800"
   },
   {
     "User": "Admin1",
-    "score": 1500
+    "Score": "1500"
   },
   {
     "User": "Client2",
-    "score": 1200
+    "Score": "1200"
   },
   {
     "User": "Admin2",
-    "score": 1100
+    "Score": "1100"
   },
   {
     "User": "Client3",
-    "score": 1050
+    "Score": "1050"
   }
 ]
